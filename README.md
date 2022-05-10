@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **@AbacaxiFucsia**
+#  Hi, I'm ***@AbacaxiFucsia***
 - 👀 I like to do paintings and drawings
 - 🌱 I’m currently learning Javascript & Scratch
 - 📫 You can reach me by discord **AbacaxiFucsia#6414**
